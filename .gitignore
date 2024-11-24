@@ -1,0 +1,5 @@
+myenv/
+Burpsuite-Professional/
+.cache/
+.config/
+.ssh/
